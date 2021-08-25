@@ -28,3 +28,8 @@ body {
 #coming-soon-box:hover {
     width: 600px;
 }
+
+.grid-container-test {
+    display: grid;
+    grid-template-columns: 80px 200px auto 40px;
+}
